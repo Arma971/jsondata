@@ -1,16 +1,13 @@
-[
-    {
-        
-        "Annick":{
-            "age":51,
-            "vols":3,
-            "insciption_date":"21/10/2011"
-        },
-        "Amael":{
-            "age":32,
-            "vols":15,
-            "inscription_date":"18/04/2015"
-        }
-    }
+{
     
-]
+    "Annick":{
+        "age":51,
+        "vols":3,
+        "insciption_date":"21/10/2011"
+    },
+    "Amael":{
+        "age":32,
+        "vols":15,
+        "inscription_date":"18/04/2015"
+    }
+}
